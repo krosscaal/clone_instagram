@@ -19,6 +19,12 @@ main{
     justify-content: center;
     float: left;
 }
+
+.clone{
+    font-size: 32px;
+    font-style: italic;
+    
+}
 footer{
     float: left;
     width: 100%;
